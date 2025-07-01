@@ -58,5 +58,10 @@ Implement a simple text generation algorithm using Markov chains. This task invo
 - `output.txt` – A sample generated text output (optional)
 - `README.md` – Project documentation
 
+## Generated Output:  
+ Generated Text:
+
+she had peeped into the book her sister was reading but it had no pictures or conversations in it. so what is the use of a book thought alice without pictures or conversations in it. so what is the use of a book thought alice without pictures or conversations in it.
+
 
 
