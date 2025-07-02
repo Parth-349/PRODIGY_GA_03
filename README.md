@@ -1,4 +1,4 @@
-# PRODIGY_GA_03 — Markov Chain Text Generator
+# PRODIGY_GA_03_Markov Chain Text Generator
 
 This project implements a simple Markov Chain-based text generation algorithm in Python. It generates text by predicting the next word in a sequence using a statistical model based on previous word(s), also known as n-grams.
 
@@ -63,5 +63,9 @@ Implement a simple text generation algorithm using Markov chains. This task invo
 
 she had peeped into the book her sister was reading but it had no pictures or conversations in it. so what is the use of a book thought alice without pictures or conversations in it. so what is the use of a book thought alice without pictures or conversations in it.
 
+## Author
 
+Parth Ubhad
+
+GitHub: [Parth-349](https://github.com/Parth-349)
 
